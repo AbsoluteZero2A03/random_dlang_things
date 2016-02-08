@@ -1,0 +1,9 @@
+{
+	"name": "blargh",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2016, em",
+	"authors": ["em"],
+	"dependencies": {
+        "botan": "~>1.12.4"
+	}
+}
